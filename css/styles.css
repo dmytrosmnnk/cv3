@@ -1,0 +1,237 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Montserrat;
+}
+.main-container {
+  width: 1200px;
+  background-color: #ffffff;
+  display: flex;
+}
+.sidebar {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.myphoto {
+  width: 370px;
+}
+.contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contacts {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.ce {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+}
+.tel {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #757c86;
+}
+.mail {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #757c86;
+}
+.tech-skills-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.tech-skills {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.li-tskills {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+.li-tskills-text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #d4d6d9;
+}
+.soft-skills-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.soft-skills {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.aboutme-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.aboutme-1st-container {
+}
+.privat-entr {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.dmytr-sem {
+  margin-top: 25px;
+  color: #000000;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.p-top1 {
+  margin-top: 25px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #868686;
+}
+.my-projects-container {
+  margin-top: 65px;
+}
+.h3-myprojects {
+  margin-bottom: 15px;
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.li-projects-elemts {
+  margin-left: 15px;
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.li-projects-text {
+  margin-left: 10px;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.li-prjts-dots {
+  margin-left: 5px;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.li-projects-text2 {
+  margin-left: 5px;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.li-prj-text2-skb {
+  margin-left: 5px;
+  color: #000000;
+}
+.work-experience-container {
+  margin-top: 55px;
+}
+.work-exp {
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.allnicebags-container {
+  margin-top: 20px;
+}
+.anb-header {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.anb-header-orange {
+  color: #ff6b08;
+}
+.work-dates {
+  margin-top: 15px;
+  color: #a1a1a1;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.work-dates-plk {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.ul-text {
+  margin-left: 15px;
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.shopogolic-container {
+  margin-top: 25px;
+}
+.work-1416-container {
+  margin-top: 25px;
+}
+.work-1214-container {
+  margin-top: 25px;
+}
+.work-1012-container {
+  margin-top: 25px;
+}
+.work-0510-container {
+  margin-top: 25px;
+}
+.education-container {
+  margin-top: 55px;
+}
+.univer-header {
+  margin-top: 20px;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
